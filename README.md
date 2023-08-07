@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuizPaschoalin
 - 👀 I’m interested in work with systems development
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning SQL and Front-end development
 - 💞️ I’m looking to collaborate with anyone i can help
 - 📫 How to reach me https://www.linkedin.com/in/luiz-antonio-paschoalin-b2a674211/
 
