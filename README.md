@@ -1,4 +1,4 @@
-# 👋 &nbsp;Hey there! I'm LuizPascholain
+# 👋 &nbsp;Hey there! I'm LuizPaschoalin
 * 💡 &nbsp;I'm a student and front dev based in Brasil.
 * 🎓 &nbsp;I plan to major in computer science with a minor in either data science or data security (not sure yet :D).
 * 🌱 &nbsp;I'm on track for learning more about Web developing, Data Security, and Cloud Architecture..
